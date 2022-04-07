@@ -13,5 +13,7 @@ https://towardsdatascience.com/temporal-loops-intro-to-recurrent-neural-networks
 Second version of my data pre-processing. One-hot encodagind of temporal features, daily time lag added.
 
 Data seems to come from mutlimedia stores, meaning that product are DVDs, Blu-rays, video-games, computer, pc, etc.
--> This has huge implications. In fact, GLOBAL sales may be monthly yearly based but, when looking at the product level, sales are highly sparsed in time. 
+-> This has huge implications. In fact, GLOBAL sales may be following monthly/yearly trends but, when looking at the product level, sales are highly sparsed in time. 
 For example, most sales for a video game are made right after the game comes out.
+
+
