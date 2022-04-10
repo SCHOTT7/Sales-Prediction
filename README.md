@@ -17,3 +17,8 @@ Data seems to come from mutlimedia stores, meaning that product are DVDs, Blu-ra
 For example, most sales for a video game are made right after the game comes out.
 
 
+### April 9-10th 2022:
+
+First attempt predicting future sales using Amazon DeepAR algorithm 
+RMSE = 4.48 
+
