@@ -21,5 +21,3 @@ For example, most sales for a video game are made right after the game comes out
 
 First attempt predicting future sales using Amazon DeepAR algorithm 
 RMSE = 4.48 
-
-https://github.com/zhykoties/TimeSeries
