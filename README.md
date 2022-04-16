@@ -21,3 +21,7 @@ For example, most sales for a video game are made right after the game comes out
 
 First attempt predicting future sales using Amazon DeepAR algorithm 
 RMSE = 4.48 
+
+### April 16th 2022:
+
+New attempt at implementing DeepAR using GluonTS library, it looks like that the implementation went well. Nevertheless, the results are not the expected one. The isssue may come from the random sampling, pushing to model to learn from 0 sales product from the testset.
