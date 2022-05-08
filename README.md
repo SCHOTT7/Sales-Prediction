@@ -30,5 +30,15 @@ New attempt at implementing DeepAR using GluonTS library, it looks like that the
 
 I choose to focus on sales forecasting by product category (currently regardless of the shop)
 
-It went pretty well, but lot of changes/upgrade are coming
+It went pretty well, but lot of changes/upgrade are coming.
 
+Here are some very interesting prediction for some relevant product categories:
+![img_example](https://github.com/SCHOTT7/Sales-Prediction-ongoing-/blob/main/plots/36.png?raw=true)
+![img_example](https://github.com/SCHOTT7/Sales-Prediction-ongoing-/blob/main/plots/21.png?raw=true)
+![img_example](https://github.com/SCHOTT7/Sales-Prediction-ongoing-/blob/main/plots/43.png?raw=true)
+![img_example](https://github.com/SCHOTT7/Sales-Prediction-ongoing-/blob/main/plots/47.png?raw=true)
+![img_example](https://github.com/SCHOTT7/Sales-Prediction-ongoing-/blob/main/plots/56.png?raw=true)
+![img_example](https://github.com/SCHOTT7/Sales-Prediction-ongoing-/blob/main/plots/67.png?raw=true)
+![img_example](https://github.com/SCHOTT7/Sales-Prediction-ongoing-/blob/main/plots/71.png?raw=true)
+![img_example](https://github.com/SCHOTT7/Sales-Prediction-ongoing-/blob/main/plots/72.png?raw=true)
+![img_example](https://github.com/SCHOTT7/Sales-Prediction-ongoing-/blob/main/plots/83.png?raw=true)
