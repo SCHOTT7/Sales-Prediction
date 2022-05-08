@@ -25,3 +25,10 @@ RMSE = 4.48
 ### April 16th 2022:
 
 New attempt at implementing DeepAR using GluonTS library, it looks like that the implementation went well. Nevertheless, the results are not the expected one. The isssue may come from the random sampling, pushing to model to learn from 0 sales product from the testset.
+
+### May 8th 2022:
+
+I choose to focus on sales forecasting by product category (currently regardless of the shop)
+
+It went pretty well, but lot of changes/upgrade are coming
+
