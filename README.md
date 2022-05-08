@@ -30,7 +30,7 @@ New attempt at implementing DeepAR using GluonTS library, it looks like that the
 
 I choose to focus on sales forecasting by product category (currently regardless of the shop)
 
-It went pretty well, but lot of changes/upgrade are coming.
+It went pretty well, but lot of changes/upgrades are coming.
 
 Here are some very interesting prediction for some relevant product categories:
 ![img_example](https://github.com/SCHOTT7/Sales-Prediction-ongoing-/blob/main/plots/36.png?raw=true)
